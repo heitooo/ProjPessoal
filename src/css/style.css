@@ -1,0 +1,10 @@
+@import url('header.css');
+@import url('home.css');
+@import url('menu.css');
+@import url('footer.css');
+:root{
+    --color-primary-1: #f6f5da;
+    --color-primary-2: #fce5b1; 
+    --color-primary-3: #810e0b;
+    --color-primary-4: #e8de92;
+}
