@@ -26,6 +26,7 @@
     }
 }
 
+
 #home {
     border-radius: 15px;
     background-color: var(--color-primary-1);
@@ -56,3 +57,4 @@
 #banner img{
     height: 700px;
 }
+ 
